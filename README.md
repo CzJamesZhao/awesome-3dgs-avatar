@@ -122,7 +122,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## 🙏 Acknowledgments
 
-Thank you to the authors of all the papers / projects listed, and to the wider 3DGS community.  
+Thank you to the authors of all the papers/projects listed, and to the wider 3DGS community.  
 
 ---
 
