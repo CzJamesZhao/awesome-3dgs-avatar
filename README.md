@@ -7,7 +7,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#mit-license)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
 [![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--19-blue.svg)](#)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#contributing)  
 
@@ -26,7 +26,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 - [Surveys and Related Resources](#surveys--related-resources)
 - [Scope and What's Included](#scope--whats-included)
 - [Contributing](#contributing)
-- [License](#mit-license)
+- [License](#license)
 
 ---
 
@@ -116,7 +116,7 @@ We welcome contributions! If you find a new paper / code repo / demo / dataset r
 - Code / demo / project page link 
 ---
 
-## ⚠️MIT License
+## ⚠️License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
