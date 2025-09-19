@@ -45,7 +45,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 | Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality | Contribution | Views Type |
 |---|---|---|---|---|---|---|---|
-| **(MM24)Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars** | Text prompt + pose‐driven primitives; combines explicit Gaussian + implicit mesh learning | Identity / geometry + appearance; animation support | ~100 fps at 1K res claimed | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.16482)  [![Code](https://img.shields.io/badge/Code-Github-8A2BE2.svg)](https://github.com/jimmyYliu/Animatable-3d-Gaussian)|
+| **(MM24)Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars** | Text prompt + pose‐driven primitives; combines explicit Gaussian + implicit mesh learning | Identity / geometry + appearance; animation support | ~100 fps at 1K res claimed | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.16482)  [![Code](https://img.shields.io/badge/Code-GitHub-8A2BE2.svg)](https://github.com/jimmyYliu/Animatable-3d-Gaussian)|
 
 ---
 
