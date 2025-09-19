@@ -45,7 +45,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 | Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality | Contribution | Views Type |
 |---|---|---|---|---|---|---|---|
-| **GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning** | Text prompt + pose‐driven primitives; combines explicit Gaussian + implicit mesh learning | Identity / geometry + appearance; animation support | ~100 fps at 1K res claimed | [arXiv 2023](https://arxiv.org/abs/2312.11461) :contentReference[oaicite:2]{index=2} |
+| **(MM24)Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars** | Text prompt + pose‐driven primitives; combines explicit Gaussian + implicit mesh learning | Identity / geometry + appearance; animation support | ~100 fps at 1K res claimed | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.16482)  [![Code](https://img.shields.io/badge/Code-Github-black.svg)](https://github.com/jimmyYliu/Animatable-3d-Gaussian)|
 
 ---
 
