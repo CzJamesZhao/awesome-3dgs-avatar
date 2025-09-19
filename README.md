@@ -7,9 +7,9 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
 [![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--19-blue.svg)](#)  
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#Contributing)  
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#contributing)  
 
 
 ---
@@ -19,12 +19,14 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 - [Papers](#papers)  
   - [Head & Face Avatars](#head-face-avatars)  
   - [Full-Body / Clothed Avatars](#full-body-clothed-avatars)  
-  - [Pose & Expression Control](#pose-expression-control)   
+  - [Pose & Expression Control](#pose-expression-control)  
 - [Implementations & Code](#implementations--code)  
 - [Datasets](#datasets)  
 - [Demos & Videos](#demos--videos)  
 - [Surveys & Related Resources](#surveys--related-resources)  
+- [Scope / What’s Included](#scope-whats-included)  
 - [Contributing](#contributing)  
+- [License](#license)  
 
 ---
 
