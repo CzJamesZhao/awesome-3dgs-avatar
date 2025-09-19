@@ -32,8 +32,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ### Head & Face Avatars
 
-| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality | Contribution |
-|---|---|---|---|---|---|---|
+| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality | Contribution | Views Type |
+|---|---|---|---|---|---|---|---|
 | **SEGA: Drivable 3D Gaussian Head Avatar from a Single Image** | Single image; using UV-space Gaussian framework + FLAME prior | Expression + view + identity; generalizes to unseen identities | Real-time performance claimed | [arXiv 2025](https://arxiv.org/abs/2504.14373) :contentReference[oaicite:0]{index=0} |
 | **FMGS-Avatar: Mesh-Guided 2D Gaussian Splatting with Foundation Model Priors for 3D Monocular Avatar Reconstruction** | Monocular video / limited view; uses mesh guidance + foundation model priors | Improves geometric detail + appearance fidelity; consistent rendering under novel views/poses | — (track speed via experiments) | [arXiv 2025](https://arxiv.org/abs/2509.14739) :contentReference[oaicite:1]{index=1} |
 
@@ -41,16 +41,16 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ### Full-Body / Clothed Avatars
 
-| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality | Contribution |
-|---|---|---|---|---|---|---|
+| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality | Contribution | Views Type |
+|---|---|---|---|---|---|---|---|
 | **GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning** | Text prompt + pose‐driven primitives; combines explicit Gaussian + implicit mesh learning | Identity / geometry + appearance; animation support | ~100 fps at 1K res claimed | [arXiv 2023](https://arxiv.org/abs/2312.11461) :contentReference[oaicite:2]{index=2} |
 
 ---
 
 ### Pose & Expression Control
 
-| Title | Focus | Controlled Variables | Link | Modality | Contribution |
-|---|---|---|---|---|---|
+| Title | Focus | Controlled Variables | Link | Modality | Contribution | Views Type |
+|---|---|---|---|---|---|---|
 | SEGA | head / face; disentangle dynamic vs static parts; control expression + view + identity | Expression, view, identity | [arXiv](https://arxiv.org/abs/2504.14373) :contentReference[oaicite:3]{index=3} |
 | GAvatar | full‐body / identity; geometry + appearance; animatable via pose | Pose, identity, geometry detail | [arXiv](https://arxiv.org/abs/2312.11461) :contentReference[oaicite:4]{index=4} |
 
