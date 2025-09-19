@@ -18,13 +18,13 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 - [Papers](#papers)
   - [Head and Face Avatars](#head--face-avatars)
-  - [Full-Body and Clothed Avatars](#full-body-and-clothed-avatars)
-  - [Pose and Expression Control](#pose-and-expression-control)
-- [Implementations and Code](#implementations-and-code)
+  - [Full-Body and Clothed Avatars](#full-body--clothed-avatars)
+  - [Pose and Expression Control](#pose--expression-control)
+- [Implementations and Code](#implementations--code)
 - [Datasets](#datasets)
-- [Demos and Videos](#demos-and-videos)
-- [Surveys and Related Resources](#surveys-and-related-resources)
-- [Scope and What's Included](#scope-and-whats-included)
+- [Demos and Videos](#demos--videos)
+- [Surveys and Related Resources](#surveys--related-resources)
+- [Scope and What's Included](#scope--whats-included)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -59,7 +59,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 ---
 
 
-## 🔧 Implementations & Code
+## 🔧Implementations & Code
 
 - Whenever available, include GitHub / project URLs  
 - Example: if SEGA / GAvatar have official code releases, include here (you may need to check if code is published yet)  
@@ -67,14 +67,14 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
-## 📂 Datasets
+## 📂Datasets
 
 - List datasets used by the papers above (e.g. datasets with multi‐view images, expression / pose annotations, identity variation)  
 - If there are avatar / human scan datasets useful for 3DGS avatar work, include them
 
 ---
 
-## 🎥 Demos & Videos
+## 🎥Demos & Videos
 
 - Link to project demo pages  
 - Embeddable video / gif if available  
@@ -82,13 +82,13 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
-## 📖 Surveys & Related Resources
+## 📖Surveys & Related Resources
 
 - *A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation* — Links: [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.04253)
 
 ---
 
-## 📋 Scope / What’s Included
+## 📋Scope / What’s Included
 
 This repository collects methods and resources that satisfy **all** of:
 
@@ -104,7 +104,7 @@ Excluded (for now):
 
 ---
 
-## 🤝 Contributing
+## 🤝Contributing
 
 We welcome contributions! If you find a new paper / code repo / demo / dataset relevant to **3D Gaussian Splatting + avatars / dynamic humans**, please send a Pull Request. When submitting, please include:
 
@@ -116,13 +116,13 @@ We welcome contributions! If you find a new paper / code repo / demo / dataset r
 - Code / demo / project page link 
 ---
 
-## ⚠️ License
+## ⚠️License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏Acknowledgments
 
 Thank you to the authors of all the papers/projects listed, and to the wider 3DGS community.  
 
