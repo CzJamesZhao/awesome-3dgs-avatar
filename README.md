@@ -11,6 +11,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
+⭐ If you like this list, give it a star! 拜托 star 😄
+
 ---
 
 ## 🚀 Table of Contents
@@ -81,20 +83,36 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ## 📖 Surveys & Related Resources
 
-- *A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation* — Links: [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.04253) 
+- *A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation* — Links: [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.04253)
+
+---
+
+## 📋 Scope / What’s Included
+
+This repository collects methods and resources that satisfy **all** of:
+
+1. Use **3D Gaussian Splatting** (or methods clearly based on or extending 3DGS) as a core component.  
+2. Target **avatars / dynamic humans** (head, face, full body, clothed, expression / pose animation).  
+3. Support or demonstrate **dynamic / controllable outputs** (pose, expression, identity, view etc.).  
+
+Excluded (for now):
+
+- Static scenes / static objects without human / avatar elements.  
+- Methods that use only 2D Gaussian Splatting without 3D extension.  
+- Non-human characters unless specified.  
+
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! If you find a new paper / code repo / demo / dataset relevant to **3D Gaussian Splatting + avatars / dynamic humans**, please feel free to send a Pull Request. Here are suggestions for what to include:
+We welcome contributions! If you find a new paper / code repo / demo / dataset relevant to **3D Gaussian Splatting + avatars / dynamic humans**, please send a Pull Request. When submitting, please include:
 
 - Title, authors, year  
-- What part is avatar / dynamic human (head / full‐body / expression / pose / identity)  
-- Input modality (single image / video / multi‐view / text prompt / etc.)  
-- What is controllable (pose, expression, identity, view, etc.)  
-- Whether there's code / demo, speed / real-time info if available  
-- Link to paper, code, project page, demo
-
+- Type of avatar (head / full body / clothed)  
+- Input modality (single image / video / multi-view / text prompt etc.)  
+- Controlled variables (pose, expression, identity, view etc.)  
+- Speed / resource info (if available)  
+- Code / demo / project page link 
 ---
 
 ## ⚠️ License
