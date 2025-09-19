@@ -24,8 +24,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ### Head & Face Avatars
 
-| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link |
-|---|---|---|---|---|
+| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality |
+|---|---|---|---|---|---|
 | **SEGA: Drivable 3D Gaussian Head Avatar from a Single Image** | Single image; using UV-space Gaussian framework + FLAME prior | Expression + view + identity; generalizes to unseen identities | Real-time performance claimed | [arXiv 2025](https://arxiv.org/abs/2504.14373) :contentReference[oaicite:0]{index=0} |
 | **FMGS-Avatar: Mesh-Guided 2D Gaussian Splatting with Foundation Model Priors for 3D Monocular Avatar Reconstruction** | Monocular video / limited view; uses mesh guidance + foundation model priors | Improves geometric detail + appearance fidelity; consistent rendering under novel views/poses | — (track speed via experiments) | [arXiv 2025](https://arxiv.org/abs/2509.14739) :contentReference[oaicite:1]{index=1} |
 
