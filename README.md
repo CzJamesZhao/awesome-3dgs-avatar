@@ -17,7 +17,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 ## 🚀 Table of Contents
 
 - [Papers](#papers)
-  - [Head and Face Avatars](#head-face-avatars)
+  - [Head and Face Avatars](#head--face-avatars)
   - [Full-Body and Clothed Avatars](#full-body-and-clothed-avatars)
   - [Pose and Expression Control](#pose-and-expression-control)
 - [Implementations and Code](#implementations-and-code)
