@@ -34,7 +34,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ### Head & Face Avatars
 
-| Title | Input Modality | What is Controllable | Real-Time? / Speed | Link | Contribution | Views Type |
+| Title | Model Input | What is Controllable | Real-Time? / Speed | Link | Contribution | Views Type |
 |---|---|---|---|---|---|---|
 | **SEGA: Drivable 3D Gaussian Head Avatar from a Single Image** | Single image; using UV-space Gaussian framework + FLAME prior | Expression + view + identity; generalizes to unseen identities | Real-time performance claimed | [arXiv 2025](https://arxiv.org/abs/2504.14373) :contentReference[oaicite:0]{index=0} |
 
@@ -42,7 +42,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ### Full-Body / Clothed Avatars
 
-| Title | Input Modality | What is Controllable | Real-Time? / Speed | Link | Contribution | Views Type |
+| Title | Model Input | What is Controllable | Real-Time? / Speed | Link | Contribution | Views Type |
 |---|---|---|---|---|---|---|
 | **(MM24)Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars** | pose‐driven primitives;<br> combines explicit Gaussian + implicit mesh learning | Identity / geometry + appearance; animation support | ~100 fps at 1K res claimed | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.16482)  [![Code](https://img.shields.io/badge/Code-GitHub-8A2BE2.svg)](https://github.com/jimmyYliu/Animatable-3d-Gaussian)|
 
