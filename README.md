@@ -44,9 +44,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 | Title | Model Input | What is Controllable | Real-Time? / Speed | Link | Contribution | Views Type |
 |---|---|---|---|---|---|---|
-| **(MM24)Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars** | video sequence of one or more humans along with their corresponding pose data $(S_t,T_t)$ for each frame. | novel view synthesis and novel pose synthesis | real-time claimed |[![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.16482)  [![Code](https://img.shields.io/badge/Code-GitHub-8A2BE2.svg)](https://github.com/jimmyYliu/Animatable-3d-Gaussian)| 1. Animatable 3D Gaussian: A new representation for dynamic humans that allows for fast, high-quality reconstruction without needing a specific shape prior like SMPL. 2. significantly faster (training in seconds) and uses less memory than previous state-of-the-art methods. 3. Dynamic Shadow Modeling. |monocular (single-view) or sparse multi-view video sequences|
-
-|**(3DV25)D3GA - Drivable 3D Gaussian Avatars**|
+| **(MM24)Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars** | video sequence of one or more humans along with their corresponding pose data $(S_t,T_t)$ for each frame. | novel view synthesis and novel pose synthesis | real-time claimed |[![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.16482)  [![Code](https://img.shields.io/badge/Code-GitHub-8A2BE2.svg)](https://github.com/jimmyYliu/Animatable-3d-Gaussian)| 1. Animatable 3D Gaussian: A new representation for dynamic humans that allows for fast, high-quality reconstruction without needing a specific shape prior like SMPL. 2. significantly faster (training in seconds) and uses less memory than previous state-of-the-art methods. 3. Dynamic Shadow Modeling. | monocular (single-view) or sparse multi-view video sequences |
+| **(3DV25)D3GA - Drivable 3D Gaussian Avatars** |
 
 
 ---
