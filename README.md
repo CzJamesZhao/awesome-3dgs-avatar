@@ -5,6 +5,14 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#License)  
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--19-blue.svg)](#)  
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#contributing)  
+
+---
+
+---
+
 ## 🚀 Table of Contents
 
 - [Papers](#papers)  
