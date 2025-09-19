@@ -16,17 +16,17 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ## 🚀 Table of Contents
 
-- [Papers](#papers)  
-  - [Head & Face Avatars](#head-face-avatars)  
-  - [Full-Body / Clothed Avatars](#full-body-clothed-avatars)  
-  - [Pose & Expression Control](#pose-expression-control)  
-- [Implementations & Code](#implementations--code)  
-- [Datasets](#datasets)  
-- [Demos & Videos](#demos--videos)  
-- [Surveys & Related Resources](#surveys--related-resources)  
-- [Scope / What’s Included](#scope-whats-included)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Papers](#papers)
+  - [Head and Face Avatars](#head-and-face-avatars)
+  - [Full-Body and Clothed Avatars](#full-body-and-clothed-avatars)
+  - [Pose and Expression Control](#pose-and-expression-control)
+- [Implementations and Code](#implementations-and-code)
+- [Datasets](#datasets)
+- [Demos and Videos](#demos-and-videos)
+- [Surveys and Related Resources](#surveys-and-related-resources)
+- [Scope and What's Included](#scope-and-whats-included)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
