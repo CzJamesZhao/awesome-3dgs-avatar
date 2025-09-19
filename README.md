@@ -30,7 +30,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
-## 📚 Papers
+## 📚Papers
 
 ### Head & Face Avatars
 
