@@ -33,29 +33,21 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ### Full-Body / Clothed Avatars
 
-| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link |
-|---|---|---|---|---|
+| Title | Input / Setting | What is Controllable | Real-Time? / Speed | Link | Modality |
+|---|---|---|---|---|---|
 | **GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning** | Text prompt + pose‐driven primitives; combines explicit Gaussian + implicit mesh learning | Identity / geometry + appearance; animation support | ~100 fps at 1K res claimed | [arXiv 2023](https://arxiv.org/abs/2312.11461) :contentReference[oaicite:2]{index=2} |
 
 ---
 
 ### Pose & Expression Control
 
-| Title | Focus | Controlled Variables | Link |
-|---|---|---|---|
+| Title | Focus | Controlled Variables | Link | Modality |
+|---|---|---|---|---|
 | SEGA | head / face; disentangle dynamic vs static parts; control expression + view + identity | Expression, view, identity | [arXiv](https://arxiv.org/abs/2504.14373) :contentReference[oaicite:3]{index=3} |
 | GAvatar | full‐body / identity; geometry + appearance; animatable via pose | Pose, identity, geometry detail | [arXiv](https://arxiv.org/abs/2312.11461) :contentReference[oaicite:4]{index=4} |
 
 ---
 
-### Input Modalities
-
-| Modality | Example Works | Notes |
-|---|---|---|
-| Single Image | SEGA (single image driven head avatar) :contentReference[oaicite:5]{index=5} | Useful for minimal input / avatar from photo |
-| Monocular Video / Sparse Views | FMGS-Avatar, GAvatar :contentReference[oaicite:6]{index=6} | More temporal consistency; more geometry info |
-
----
 
 ## 🔧 Implementations & Code
 
