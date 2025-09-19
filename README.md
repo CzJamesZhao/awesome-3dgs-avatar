@@ -1,5 +1,5 @@
 # awesome-3dgs-avatar
-** Awesome 3D Gaussian Splatting → Avatars & Dynamic Humans **
+**Awesome 3D Gaussian Splatting → Avatars & Dynamic Humans**
 
 A curated list of papers, implementations, datasets, demos, and resources focusing on **3D Gaussian Splatting (3DGS)** methods applied to **avatars / dynamic human modeling**: head avatars, full-body clothed avatars, expression & pose control, single-image / video / multi-view inputs, and real-time rendering.
 
