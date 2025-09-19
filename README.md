@@ -91,7 +91,7 @@ We welcome contributions! If you find a new paper / code repo / demo / dataset r
 
 ## ⚠️ License
 
-Specify a license for this repository (MIT or other).  
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
