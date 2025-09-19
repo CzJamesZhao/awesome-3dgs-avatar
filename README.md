@@ -3,15 +3,14 @@
 
 A curated list of papers, implementations, datasets, demos, and resources focusing on **3D Gaussian Splatting (3DGS)** methods applied to **avatars / dynamic human modeling**: head avatars, full-body clothed avatars, expression & pose control, single-image / video / multi-view inputs, and real-time rendering.
 
+⭐ If you like this list, give it a star! 😄
+
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#LICENSE)  
 [![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--19-blue.svg)](#)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#Contributing)  
 
----
-
-⭐ If you like this list, give it a star! 拜托 star 😄
 
 ---
 
