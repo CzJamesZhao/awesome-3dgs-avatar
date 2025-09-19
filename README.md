@@ -82,10 +82,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ## 📖 Surveys & Related Resources
 
-- *A Survey on 3D Gaussian Splatting* — includes “Human Avatar” as one of benchmark / application tasks. :contentReference[oaicite:7]{index=7}  
-- *3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities* — discusses “Human Reconstruction / Body Reconstruction” in 3DGS context. :contentReference[oaicite:8]{index=8}  
-- *A Survey on 3D Human Avatar Reconstruction with Neural Fields* — more general, but relevant since many avatars now use 3DGS or hybrid. :contentReference[oaicite:9]{index=9}  
-
+- *A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation* — Links: [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.04253) 
 ---
 
 ## 🤝 Contributing
