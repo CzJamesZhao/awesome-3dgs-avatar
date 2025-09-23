@@ -37,7 +37,6 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | Title | Model Input | What is Controllable | Real-Time? / Speed | Papers & Codes | Contribution | Views Type |
 |---|---|---|---|---|---|---|
 | **(CVPR24)Gaussian Head Avatar:Ultra High-fidelity Head Avatar via Dynamic Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.03029)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/YuelangX/Gaussian-Head-Avatar)  | | |
-| **(CVPR24)Gaussian Head Avatar:Ultra High-fidelity Head Avatar via Dynamic Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03029)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/YuelangX/Gaussian-Head-Avatar)  | | |
 | **(25)SEGA: Drivable 3D Gaussian Head Avatar from a Single Image** | Single image; using UV-space Gaussian framework + FLAME prior | Expression + view + identity; generalizes to unseen identities | Real-time performance claimed | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14373) Not release code|
 
 ---
