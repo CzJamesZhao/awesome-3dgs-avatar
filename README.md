@@ -43,6 +43,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | **(CVPR25)AvatarArtist: Open-Domain 4D Avatarization** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.19906)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/ant-research/AvatarArtist)  | | |
 | **(CVPR25 Oral)CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12093)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/felixtaubner/cap4d/)  | | |
 | **(CVPR25)FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15604)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/zjwfufu/FateAvatar)  | | |
+| **(CVPR25)GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_GPAvatar_High-fidelity_Head_Avatars_by_Learning_Efficient_Gaussian_Projections_CVPR_2025_paper.pdf)<br>  Not Release Code  | | |
 
 
 
