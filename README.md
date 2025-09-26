@@ -53,6 +53,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | **(CVPR25)RGBAvatar: Reduced Gaussian Blendshapes for Online Modeling of Head Avatars** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.12886)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/gapszju/RGBAvatar)  | | |
 | **(CVPR25)Synthetic Prior for Few-Shot Drivable Head Avatar Inversion** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.06903)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/Zielon/synshot) Not Release Code | | |
 | **(CVPR25)Synthetic Prior for Few-Shot Drivable Head Avatar Inversion** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.00495)<br>  Not Release Code | | |
+| **(NeurIPS25)Low-Rank Head Avatar Personalization with Registers** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.01935)<br>  Not Release Code | | |
+| **(NeurIPS25)BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)]([https://arxiv.org/pdf/2506.01935](https://arxiv.org/pdf/2506.06271))<br>  Not Release Code | | |
 
 
 
@@ -86,6 +88,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 |**(CVPR25 Highlight)Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.12909)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/1231234zhan/mmlphuman) |
 |**(CVPR25)Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://moygcc.github.io/vid2avatar-pro/static/CVPR2025_Vid2Avatar_Pro.pdf)<br>  Not Release code |
 |**(CVPR25)WildAvatar: Learning In-the-wild 3D Avatars from the Web**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.15851)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/ZhenglinZhou/Zero-1-to-A) |
+|**(CVPR25)IDOL: Instant Photorealistic 3D Human Creation from a Single Image**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14963)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/yiyuzhuang/IDOL) |
 
 
 
