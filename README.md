@@ -93,6 +93,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 |**(CVPR25)Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://moygcc.github.io/vid2avatar-pro/static/CVPR2025_Vid2Avatar_Pro.pdf)<br>  Not Release code |
 |**(CVPR25)WildAvatar: Learning In-the-wild 3D Avatars from the Web**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.15851)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/ZhenglinZhou/Zero-1-to-A) |
 |**(CVPR25)IDOL: Instant Photorealistic 3D Human Creation from a Single Image**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14963)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/yiyuzhuang/IDOL) |
+|**(ICCV25)Sequential Gaussian Avatars with Hierarchical Motion Context**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16768)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/zezeaaa/SeqAvatar) |
 
 
 
