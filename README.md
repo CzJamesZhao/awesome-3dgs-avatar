@@ -54,7 +54,11 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | **(CVPR25)Synthetic Prior for Few-Shot Drivable Head Avatar Inversion** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.06903)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/Zielon/synshot) Not Release Code | | |
 | **(CVPR25)Synthetic Prior for Few-Shot Drivable Head Avatar Inversion** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.00495)<br>  Not Release Code | | |
 | **(NeurIPS25)Low-Rank Head Avatar Personalization with Registers** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.01935)<br>  Not Release Code | | |
-| **(NeurIPS25)BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)]([https://arxiv.org/pdf/2506.01935](https://arxiv.org/pdf/2506.06271))<br>  Not Release Code | | |
+| **(NeurIPS25)BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.06271)<br>  Not Release Code | | |
+| **(ICCV25)FaceCraft4D: Animated 3D Facial Avatar Generation from a Single Image** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.15179)<br>  Not Release Code | | |
+| **(ICCV25)StrandHead: Text to Hair-Disentangled 3D Head Avatars Using Human-Centric Priors** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://github.com/XiaokunSun/StrandHead)<br>  Not Release Code | | |
+| **(ICCV25)TeRA : Rethinking Text-guided Realistic 3D Avatar Generation** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://zjwsite.github.io/files/TeRA.pdf)<br>  Not Release Code | | |
+
 
 
 
