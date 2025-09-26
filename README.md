@@ -58,6 +58,11 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | **(ICCV25)FaceCraft4D: Animated 3D Facial Avatar Generation from a Single Image** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.15179)<br>  Not Release Code | | |
 | **(ICCV25)StrandHead: Text to Hair-Disentangled 3D Head Avatars Using Human-Centric Priors** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://github.com/XiaokunSun/StrandHead)<br>  Not Release Code | | |
 | **(ICCV25)TeRA : Rethinking Text-guided Realistic 3D Avatar Generation** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://zjwsite.github.io/files/TeRA.pdf)<br>  Not Release Code | | |
+| **(ICCV25)Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://tobias-kirschstein.github.io/avat3r/)<br>  Not Release Code | | |
+| **(ICCV25)InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians** | | | | [![PDF](https://arxiv.org/pdf/2504.07949)<br>  Not Release Code | | |
+
+
+
 
 
 
@@ -94,7 +99,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 |**(CVPR25)WildAvatar: Learning In-the-wild 3D Avatars from the Web**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.15851)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/ZhenglinZhou/Zero-1-to-A) |
 |**(CVPR25)IDOL: Instant Photorealistic 3D Human Creation from a Single Image**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14963)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/yiyuzhuang/IDOL) |
 |**(ICCV25)Sequential Gaussian Avatars with Hierarchical Motion Context**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16768)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/zezeaaa/SeqAvatar) |
-
+|**(ICCV25)GAS: Generative Avatar Synthesis from a Single Image**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.06957)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/humansensinglab/GAS) Not Release Full Code |
+|**(ICCV25 Hightlight)MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://zj-dong.github.io/MoGA/assets/paper.pdf)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/zj-dong/MoGA) Not Release Code |
 
 
 
