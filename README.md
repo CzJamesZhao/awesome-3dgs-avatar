@@ -8,7 +8,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
-[![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--26-blue.svg)](#)  
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--27-blue.svg)](#)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#contributing)  
 
 
@@ -59,7 +59,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | **(ICCV25)StrandHead: Text to Hair-Disentangled 3D Head Avatars Using Human-Centric Priors** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://github.com/XiaokunSun/StrandHead)<br>  Not Release Code | | |
 | **(ICCV25)TeRA : Rethinking Text-guided Realistic 3D Avatar Generation** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://zjwsite.github.io/files/TeRA.pdf)<br>  Not Release Code | | |
 | **(ICCV25)Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://tobias-kirschstein.github.io/avat3r/)<br>  Not Release Code | | |
-| **(ICCV25)InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians** | | | | [![PDF](https://arxiv.org/pdf/2504.07949)<br>  Not Release Code | | |
+| **(ICCV25)InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.07949)<br>  Not Release Code | | |
 
 
 
@@ -102,7 +102,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 |**(ICCV25)GAS: Generative Avatar Synthesis from a Single Image**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.06957)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/humansensinglab/GAS) Not Release Full Code |
 |**(ICCV25 Hightlight)MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://zj-dong.github.io/MoGA/assets/paper.pdf)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/zj-dong/MoGA) Not Release Code |
 |**(ICCV25)ToMiE: Towards Explicit Exoskeleton for the Reconstruction of Complicated 3D Human Avatars**| Multi-view synchronized videos.|The poses of hand-held objects and the motion of loose-fitting clothing. This control is explicit and fully decoupled from the standard SMPL body pose, allowing for independent animation |Training Time: ~30 minutes. Rendering Speed (FPS): 60+ FPS.| [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.08082)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/Yifever20002/ToMiE?tab=readme-ov-file) Not Release Code | 1. Proposes ToMiE, an adaptive growth strategy to create an enhanced SMPL joint tree, decoupling complex parts from the body for state-of-the-art rendering and animation. 2. Introduces a hybrid assignment strategy using LBS weights and Motion Kernels to guide the growth of external joints via gradient localization. 3. Develops a joint optimization approach that fits local rotations across frames for the newly grown joints |  Multi-view synchronized videos. 24 surrounding views for training and 6 novel views for testing | Standard parameterized models like SMPL fail to accurately model and animate 3D humans with hand-held objects or loose-fitting clothing | single GeForce RTX3090 GPU | drastic topological changes, such as a person taking off their clothes or opening a book.|
-
+|**(ICCV25)PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2508.09973)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/mks0601/PERSONA_RELEASE) |
+|**(ICCV25)Fine-Grained 3D Gaussian Head Avatars Modeling from Static Captures via Joint Reconstruction and Registration**|  | | | Not release paper and codes |
 
 
 
