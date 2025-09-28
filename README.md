@@ -5,8 +5,6 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ⭐ If you like this list, give it a star! 😄
 
----<img width="191" height="105" alt="image" src="https://github.com/user-attachments/assets/8df07ae2-69a9-4324-85b5-a129442efff9" />
-
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
 [![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--27-blue.svg)](#)  
