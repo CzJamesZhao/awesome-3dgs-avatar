@@ -3,11 +3,11 @@
 
 A curated list of papers, implementations, datasets, demos, and resources focusing on **3D Gaussian Splatting (3DGS)** methods applied to **avatars / dynamic human modeling**: head avatars, full-body clothed avatars, expression & pose control, single-image / video / multi-view inputs, and real-time rendering.
 
-⭐ If you like this list, give it a star! 😄
+⭐ If you like this list, please give it a star! 😄
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
-[![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--27-blue.svg)](#)  
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025--09--28-blue.svg)](#)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#contributing)  
 
 
@@ -36,7 +36,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | Title | Model Input | What is Controllable | Real-Time? / Speed | Papers & Codes | Contribution | Views Type |
 |---|---|---|---|---|---|---|
 | **(NeurIPS24)Generalizable and Animatable Gaussian Head Avatar** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.07971)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/xg-chu/GAGAvatar)  | | |
-| **(CVPR24)Gaussian Head Avatar:Ultra High-fidelity Head Avatar via Dynamic Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.03029)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/YuelangX/Gaussian-Head-Avatar)  | | |
+| **(CVPR24)Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.03029)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/YuelangX/Gaussian-Head-Avatar)  | | |
 | **(25)SEGA: Drivable 3D Gaussian Head Avatar from a Single Image** | Single image; using UV-space Gaussian framework + FLAME prior | Expression + view + identity; generalizes to unseen identities | Real-time performance claimed | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14373) Not release code|
 | **(CVPR25)3D Gaussian Head Avatars with Expressive Dynamic Appearances by Compact Tensorial Representations** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14967)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/ant-research/TensorialGaussianAvatar)  | | |
 | **(CVPR25)Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05379)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/dimgerogiannis/Arc2Avatar)  | | |
@@ -108,7 +108,11 @@ Inference: A single RTX-3090 GPU. | The optimization process to create an animat
 |**(ICCV25)PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2508.09973)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/mks0601/PERSONA_RELEASE) |
 |**(ICCV25)Fine-Grained 3D Gaussian Head Avatars Modeling from Static Captures via Joint Reconstruction and Registration**|  | | | Not release paper and codes |
 |**(ICCV25)Disentangled Clothed Avatar Generation with Layered Representation**| Gaussian noise (for generation). The model is trained on multi-view 2D images | Animation; Camera View Control; Decomposition of body, hair, and clothes; Component Transfer (e.g., swapping clothes, hair, shoes) | Seconds to generate a single avatar | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.04631)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://arxiv.org/pdf/2501.04631) | 1. Proposes LayerAvatar, a novel feed-forward diffusion-based pipeline for generating component-disentangled clothed avatars. 2. Introduces a layered UV feature plane representation that facilitates component disentanglement and enhances generation quality. 3. Achieves state-of-the-art performance in generation quality and supports downstream applications like component transfer with high efficiency | Multi-view 2D images are used for training | The challenge is efficiently generating high-quality, customizable 3D clothed avatars. | Training: The model was trained for 6 days on two RTX 3090 GPUs | 1. Performance is sensitive to the accuracy of the estimated segmentation maps and SMPL-X parameters. 2. Potential for collision artifacts between the body and clothing layers. 3. Animation of loose clothing is prone to artifacts. 4. It does not currently handle general accessories like glasses or bags |
-|**(ICCV25)LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds**|  | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.10625)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/aigc3d/LHM) |
+|**(ICCV25)LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds**| A single RGB image of a person | controllable for animation via SMPL-X parameters | 2.01s (LHM-0.5B), 4.13s (LHM-0.7B), and 6.57s (LHM-1B). | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.10625)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/aigc3d/LHM) | 1. Proposes LHM, a generalizable feed-forward model that reconstructs animatable 3D avatars from a single image in seconds. 2. Introduces a Multimodal Body-Head Transformer (MBHT) to effectively fuse 3D geometric tokens with 2D image features for detailed reconstruction. 3. Achieves state-of-the-art performance in generalization and animation consistency by training on a large-scale video dataset without requiring rigged 3D ground truth data. | single-view image | challenging problem of animatable 3D human reconstruction from a single image | Training: Performed on NVIDIA A100 clusters using 32 to 64 GPUs. Inference: from 18 GB to 24 GB, depending on the model size. | can be affected by the biased distribution of views and poses in the real-world video training dataset |
+
+
+
+
 
 
 
