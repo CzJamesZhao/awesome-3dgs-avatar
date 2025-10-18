@@ -17,7 +17,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 - [Papers](#papers)
   - [Head and Face Avatars](#head--face-avatars)
-  - [Full-Body and Clothed Avatars](#full--upper-body--clothed-avatars) 
+  - [Full-Body and Clothed Avatars](#full--upper--body--clothed-avatars)Full/Upper-Body / Clothed Avatars
   - [Pose and Expression Control](#pose--expression-control)
 - [Implementations and Code](#implementations--code)
 - [Datasets](#datasets)
@@ -61,8 +61,6 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | **(ICCV25)Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://tobias-kirschstein.github.io/avat3r/)<br>  Not Release Code | | |
 | **(ICCV25)InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.07949)<br>  Not Release Code | | |
 | **(ICCV25)GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2507.18155)<br>  Not Release Code | | |
-
-
 
 
 
