@@ -17,7 +17,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 - [Papers](#papers)
   - [Head and Face Avatars](#head--face-avatars)
-  - [Full-Body and Clothed Avatars](#full--upper--clothed-avatars)
+  - [Full-Body and Clothed Avatars](#full--upper-clothed-avatars)
   - [Pose and Expression Control](#pose--expression-control)
 - [Implementations and Code](#implementations--code)
 - [Datasets](#datasets)
@@ -71,7 +71,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ---
 
-### Full / Upper / Clothed Avatars
+### Full / Upper Clothed Avatars
 
 | Title | Model Input | What is Controllable | Speed | Papers & Codes | Contribution | Views Type | specified problem | Training & Inference Device | Limitations |
 |---|---|---|---|---|---|---|---|---|---|
