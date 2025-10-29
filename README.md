@@ -19,7 +19,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
   - [Head and Face Avatars](#head--face-avatars)
   - [Full-Body and Clothed Avatars](#full--upper-clothed-avatars)
   - [Pose and Expression Control](#pose--expression-control)
-  - [3D/4D Generation with Gaussian Splatting](#3d--4d-generation-with-gaussian-splatting)
+  - [3D/4D Generation with Gaussian Splatting](#3d4d-generation-with-gaussian-splatting)
 - [Implementations and Code](#implementations--code)
 - [Datasets](#datasets)
 - [Demos and Videos](#demos--videos)
