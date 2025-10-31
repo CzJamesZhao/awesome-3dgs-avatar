@@ -173,7 +173,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 ## 📖Surveys & Related Resources
 
 - *A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation* — Links: [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.04253)
-
+ 
 ---
 
 ## 📋Scope / What’s Included
