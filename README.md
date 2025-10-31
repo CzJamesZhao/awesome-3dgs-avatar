@@ -34,7 +34,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 ### Head & Face Avatars
 
-| Title | Model Input | What is Controllable | Real-Time? / Speed | Papers & Codes | Contribution | Views Type |
+| Title | Model Input | What is Controllable | Speed | Papers & Codes | Contribution | Views Type | specified problem | Training & Inference Device | Limitations |
 |---|---|---|---|---|---|---|
 | **(NeurIPS24)Generalizable and Animatable Gaussian Head Avatar** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.07971)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/xg-chu/GAGAvatar)  | | |
 | **(CVPR24)Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.03029)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/YuelangX/Gaussian-Head-Avatar)  | | |
@@ -61,6 +61,8 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 | **(ICCV25)Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://tobias-kirschstein.github.io/avat3r/)<br>  Not Release Code | | |
 | **(ICCV25)InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.07949)<br>  Not Release Code | | |
 | **(ICCV25)GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2507.18155)<br>  Not Release Code | | |
+| **(NeurIPS25)CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis** | | | | [![PDF](https://img.shields.io/badge/PDF-arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.17590)<br>  [![CODE](https://img.shields.io/badge/CODE-GitHub-8A2BE2.svg)](https://github.com/fraunhoferhhi/cgs-gan) | | | ｜Training: 4x Nvidia H100 GPUs. Inference (Synthesis Speed): 1x Nvidia 4090｜
+
 
 
 
