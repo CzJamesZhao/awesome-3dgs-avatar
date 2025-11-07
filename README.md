@@ -7,7 +7,7 @@ A curated list of papers, implementations, datasets, demos, and resources focusi
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
-[![Last Updated](https://img.shields.io/badge/last%20updated-2025--11--03-blue.svg)](#)  
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025--11--07-blue.svg)](#)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#contributing)  
 
  
